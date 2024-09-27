@@ -1,10 +1,10 @@
 Hi 👋 My name is Ediz!
 ======================
 
-Computer Engineer with a Bachelor's degree from Yıldız Technical University.
+I have a Bachelor's degree from Yıldız Technical University Computer Engineering Department.
 ----------------------------------------------------------------------------
 
-Currently I'm focused on iOS Development but I'm learning React Native for a cross-platform option.
+I'm currently focusing on iOS Development, but I'm also interested in cross-platform languages.
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [edizaydogan@gmail.com](mailto:edizaydogan@gmail.com)
