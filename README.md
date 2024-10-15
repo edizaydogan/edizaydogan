@@ -4,11 +4,11 @@ Hi 👋 My name is Ediz!
 I have a Bachelor's degree from Yıldız Technical University Computer Engineering Department.
 ----------------------------------------------------------------------------
 
-I'm currently focusing on iOS Development, but I'm also interested in cross-platform languages.
+I'm currently developing an iOS app with Swift. Also I'm interested in Data & AI technologies.
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [edizaydogan@gmail.com](mailto:edizaydogan@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Flutter/Dart from a bootcamp by Kasım ADALAN
 * ⚡  I have a dog named Robin
 
 ### Skills
