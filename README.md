@@ -8,7 +8,7 @@ I'm currently developing an iOS app with Swift. Also I'm interested in Data & AI
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [edizaydogan@gmail.com](mailto:edizaydogan@gmail.com)
-* 🧠  I'm learning Flutter/Dart from a bootcamp by Kasım ADALAN
+* 🧠  I'm participating in NewMind AI bootcamp by Patika.dev
 * ⚡  I have a dog named Robin
 
 ### Skills
