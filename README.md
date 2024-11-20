@@ -4,11 +4,11 @@ Hi 👋 My name is Ediz!
 I'm a Computer Engineer with a Bachelor's degree from Yıldız Technical University.
 ----------------------------------------------------------------------------------
 
-I'm currently developing an iOS app with Swift. Also I'm interested in Data & AI technologies.
+I am looking for a full-time opportunity where I can contribute to and grow within Mobile Development, Backend Development, or Quality Assurance roles.
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [edizaydogan@gmail.com](mailto:edizaydogan@gmail.com)
-* 🧠  I'm participating in NewMind AI bootcamp by Patika.dev
+* 🧠  I'm learning C# and .NET
 * ⚡  I have a dog named Robin
 
 ### Skills
