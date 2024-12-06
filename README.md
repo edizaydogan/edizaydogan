@@ -4,11 +4,11 @@ Hi 👋 My name is Ediz!
 I'm a Computer Engineer with a Bachelor's degree from Yıldız Technical University.
 ----------------------------------------------------------------------------------
 
-I am looking for a full-time career opportunity where I can contribute to and grow within Mobile Development, Backend Development or Data-related roles.
+I am looking for a full-time career opportunity where I can contribute to and grow within Mobile or Backend Development.
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [edizaydogan@gmail.com](mailto:edizaydogan@gmail.com)
-* 🧠  I'm learning C# and .NET
+* 🧠  I'm learning .NET and React with Inveon Fullstack Bootcamp
 * ⚡  I have a dog named Robin
 
 ### Skills
